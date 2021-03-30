@@ -1,11 +1,12 @@
+//谷歌
 DOMAIN-SUFFIX,google.com
+
+//Apple Music
 DOMAIN-SUFFIX,music.apple.com
-DOMAIN-SUFFIX,aod.itunes.apple.com
-DOMAIN-SUFFIX,mvod.itunes.apple.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,guzzoni.apple.com
+//缩略图的加载？
+DOMAIN-SUFFIX,mzstatic.com
+//疑似广播的播放
 DOMAIN-SUFFIX,itsliveradio.apple.com
-DOMAIN-SUFFIX,aodp-ssl.apple.com
-DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
-DOMAIN-SUFFIX,streamingaudio.itunes.apple.com
-DOMAIN-SUFFIX,amazonaws.com
-DOMAIN-SUFFIX,blobstore.apple.com
-DOMAIN-SUFFIX,audio.itunes.apple.com
+DOMAIN-SUFFIX,itsliveradiobackup.apple.com
