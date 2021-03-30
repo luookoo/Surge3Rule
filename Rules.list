@@ -10,3 +10,5 @@ DOMAIN-SUFFIX,mzstatic.com
 //疑似广播的播放
 DOMAIN-SUFFIX,itsliveradio.apple.com
 DOMAIN-SUFFIX,itsliveradiobackup.apple.com
+//不知道是什么东西，老是出现其他国家ip不走代理
+DOMAIN-SUFFIX,xp.apple.com
